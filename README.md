@@ -24,7 +24,7 @@ La pagina presenta:
 ```
 EvaluacionFrontEnd/
 |- PruebaFrontEnd.html
-|- FrondEnt.html
+|- FrondEnd.html
 |- README.md
 |- LICENSE
 ```
