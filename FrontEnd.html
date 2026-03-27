@@ -101,7 +101,7 @@
             inset: 0;
             background-image:
                 linear-gradient(140deg, rgba(245, 245, 241, 0.84) 0%, rgba(245, 245, 241, 0.74) 45%, rgba(245, 245, 241, 0.88) 100%),
-                url('../imagenes/estadio.png');
+                url('imagenes/estadio.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -1133,7 +1133,7 @@
             let srcImagen = generarSVGPlaceholder(campeon);
             const imagenReal = mapeoImagenes[campeon.equipo];
             if (imagenReal) {
-                srcImagen = `../imagenes/${imagenReal}`;
+                srcImagen = `imagenes/${imagenReal}`;
             }
             const juegoLabel = campeon.juego === 'cs2' ? 'CS2' : 'CS:GO';
             const juegoClass = campeon.juego === 'cs2' ? 'juego-cs2' : 'juego-csgo';
