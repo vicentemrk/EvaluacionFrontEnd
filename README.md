@@ -29,12 +29,6 @@ EvaluacionFrontEnd/
 |- LICENSE
 ```
 
-## Como Ejecutarlo
-
-1. Clona o descarga este repositorio.
-2. Abre el archivo `PruebaFrontEnd.html` en tu navegador.
-3. Asegurate de mantener la carpeta `imagenes` en la ruta esperada para que se carguen los logos.
-
 ## Notas
 
 - La informacion mostrada es de caracter informativo.
